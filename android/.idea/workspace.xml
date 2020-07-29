@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d7936915-e5eb-4960-9fdc-56b0a2131be2" name="Default Changelist" comment="" />
+    <list default="true" id="fc383d01-0a90-4232-8c0f-53d065acb686" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="PL2GAMG841715781" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -20,7 +19,7 @@
       </state>
     </system>
   </component>
-  <component name="ProjectId" id="1fEAWqHRnFPbotzUJlNbRDTdX2R" />
+  <component name="ProjectId" id="1fMDno16YIGd9BS88Z3xZa38YX6" />
   <component name="ProjectViewState">
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,9 +28,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Default Config" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -41,7 +43,7 @@
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
@@ -98,18 +100,22 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d7936915-e5eb-4960-9fdc-56b0a2131be2" name="Default Changelist" comment="" />
-      <created>1595772913286</created>
+      <changelist id="fc383d01-0a90-4232-8c0f-53d065acb686" name="Default Changelist" comment="" />
+      <created>1596019237532</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1595772913286</updated>
+      <updated>1596019237532</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="22" key="#Project_Structure" timestamp="1595772958299">
+    <state x="200" y="96" key="#PSD" timestamp="1596019795577">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1595772958299" />
+    <state x="200" y="96" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1596019795577" />
+    <state x="275" y="22" key="#Project_Structure" timestamp="1596019307140">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1596019307140" />
   </component>
 </project>
