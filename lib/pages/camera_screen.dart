@@ -1,9 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:camera/camera.dart';
 
-// ignore: must_be_immutable
 class CameraScreen extends StatefulWidget {
-  List<CameraDescription> cameras;
+  final List<CameraDescription> cameras;
 
   CameraScreen(this.cameras);
 
